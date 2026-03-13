@@ -1,0 +1,14 @@
+/home/hobz/Development/Superhero-Battle-Arena/bin/Debug/net9.0/Superhero-Battle-Arena
+/home/hobz/Development/Superhero-Battle-Arena/bin/Debug/net9.0/Superhero-Battle-Arena.deps.json
+/home/hobz/Development/Superhero-Battle-Arena/bin/Debug/net9.0/Superhero-Battle-Arena.runtimeconfig.json
+/home/hobz/Development/Superhero-Battle-Arena/bin/Debug/net9.0/Superhero-Battle-Arena.dll
+/home/hobz/Development/Superhero-Battle-Arena/bin/Debug/net9.0/Superhero-Battle-Arena.pdb
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.AssemblyInfoInputs.cache
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.AssemblyInfo.cs
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.csproj.CoreCompileInputs.cache
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.dll
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/refint/Superhero-Battle-Arena.dll
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.pdb
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.genruntimeconfig.cache
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/ref/Superhero-Battle-Arena.dll
