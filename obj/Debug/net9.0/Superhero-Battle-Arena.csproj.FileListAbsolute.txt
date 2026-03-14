@@ -12,3 +12,4 @@
 /home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.pdb
 /home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.genruntimeconfig.cache
 /home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/ref/Superhero-Battle-Arena.dll
+/home/hobz/Development/Superhero-Battle-Arena/obj/Debug/net9.0/Superhero-Battle-Arena.sourcelink.json

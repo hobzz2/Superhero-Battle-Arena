@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Superhero-Battle-Arena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f14cd32137e1c5ac4d9548a9e980e97ae386e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Superhero-Battle-Arena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Superhero-Battle-Arena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
